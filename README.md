@@ -25,11 +25,13 @@
 ## 🚀 Projects
 | Проект | Описание | Стек | Ссылка |
 |--------|----------|------|--------|
-| **ToDo REST API** | Backend-сервис для управления задачами с модульной архитектурой. CRUD, JWT, тесты, Docker. | FastAPI, SQLAlchemy, PostgreSQL, Docker, JWT | [GitHub](https://github.com/Cherletskiy/ToDo_FastAPI_pattern/tree/ver2) |
+| **QA FastAPI** | REST API сервис для управления вопросами и ответами. | FastAPI, SQLAlchemy, PostgreSQL, Alembic, Docker | [GitHub](https://github.com/Cherletskiy/QA_fastapi/tree/main) |
+| **ToDo REST API** | Backend-сервис для управления задачами с модульной архитектурой.  | FastAPI, SQLAlchemy, PostgreSQL, Docker, JWT | [GitHub](https://github.com/Cherletskiy/ToDo_FastAPI_pattern/tree/ver2) |
 | **SWAPI Data Loader** | Практика асинхронных запросов к API и загрузке в БД. | aiohttp, SQLAlchemy, asyncpg, asyncio | [GitHub](https://github.com/Cherletskiy/aiohttp_practice) |
 | **Telegram Card Bot** | Асинхронный бот с карточками и тестами для изучения слов. | Aiogram, SQLAlchemy, asyncpg, asyncio | [GitHub](https://github.com/Cherletskiy/db_sql_py/tree/main/aiogram-asynpg-main) |
 | **Social Network API** | REST API соцсети: посты, подписки, комментарии, лайки. | Django, DRF, PostgreSQL | [GitHub](https://github.com/Cherletskiy/social_network_drf_diplom) |
 | **VK → Yandex.Disk Uploader** | Загрузка фото с VK на Яндекс.Диск, выбор разрешений. | requests, VK API, Yandex Disk API, tqdm | [GitHub](https://github.com/Cherletskiy/python/tree/main/py-diplom-basic-main) |
+https://github.com/Cherletskiy/QA_fastapi/tree/main
 
 ---
 
